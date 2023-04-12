@@ -1,0 +1,1 @@
+'stash one' from staging(2)
